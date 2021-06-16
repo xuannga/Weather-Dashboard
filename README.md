@@ -10,5 +10,5 @@ https://xuannga.github.io/Weather-Dashboard/
 ![screenshot](/assets/images/screenshot.JPG)
 
 ## Clip of working webpage
-![VideoClip] (/assets/images/WeatherDashboard.gif)
+![VideoClip](/assets/images/WeatherDashboard.gif)
 

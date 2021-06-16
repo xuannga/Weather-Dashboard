@@ -4,10 +4,10 @@ function initPage() {
     const APIkey = "33e1948fcada4cc29fa60a82875771c3";
 
     //Retrieve element from HTML and assigning to variable
-    var enterCityEl = document.getElementById("enter-city");
-    var searchBtnEl = document.getElementById("search-button");
-    var clearHistoryEl = document.getElementById("clear-history");
-    var cityNameEl = document.getElementById("city-name");
+    var enterCityEl = document.getElementById("inputCity");
+    var searchBtnEl = document.getElementById("search");
+    var clearHistoryEl = document.getElementById("clearHx");
+    var cityNameEl = document.getElementById("city");
     var currentPicEl = document.getElementById("current-pic");
     var currentTempEl = document.getElementById("temperature");
     var currentHumidityEl = document.getElementById("humidity");
